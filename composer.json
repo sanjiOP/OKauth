@@ -1,5 +1,5 @@
 {
-    "name": "sanjiOP/OKauth",
+    "name": "sanjiop/okauth",
     "description": "qq,weibo,coding for oauth2",
     "keywords": ["oauth2", "oauth"],
     "license" : "MIT",
